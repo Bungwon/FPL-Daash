@@ -8,6 +8,5 @@ socket
 werkzeug.serving
 
 numpy
-bs4
-requests, json
-pprint
+requests
+jsonlib

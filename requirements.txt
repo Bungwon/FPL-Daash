@@ -1,12 +1,7 @@
 dash
-dash_bootstrap_components
+dash-bootstrap-components
 pandas
-plotly.express
-dash_ag_grid
-
-socket
-werkzeug.serving
-
-numpy
+plotly
 requests
 jsonlib
+gunicorn
